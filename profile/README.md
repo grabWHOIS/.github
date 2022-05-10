@@ -1,5 +1,9 @@
 Projekt napisany w skryptach bash, odpytujący whois ze zmiennym IP z resetowaniem routera DSL przez API
 
+# [bash.grabwhois.com](https://bash.grabwhois.com/)
++ [Repozytorium plików git grabWHOIS/bash: bash.grabwhois.com](https://github.com/grabWHOIS/bash)
++ [Projekt grabWHOIS](https://github.com/grabWHOIS)
+
 Najlepiej uruchomić na zewnętrznym urządzeniu jak RPI, które może pracować całą noc pobierając mniej prądu
 a także resetować router jeśli taka opjca jest możliwa obecnie jest wspierane resetowanie routera marki fritz.
 
